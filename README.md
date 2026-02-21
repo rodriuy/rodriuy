@@ -1,52 +1,67 @@
-# I'm Rodrigo. I Build to Win. 🏆
+I'm Rodrigo. I Build to Win. 🏆
+===============================
 
-### 📍 Uruguay | 🤖 Robotics Champion | 🚀 Full-Stack Developer
+### 📍 Uruguay | 🚀 Co-Founder @ Ta! Soluciones Digitales | 🤖 Robotics Champion
 
-I am a 17-year-old developer who doesn't just write code—I ship solutions. Core member of **Blockbit**, an award-winning robotics team. I combine engineering discipline with creative web development to build software that works.
+I am an 17-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a full-stack mindset to build software that works in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on execution and results.
 
----
+### 💼 Professional Impact (Ta! Soluciones Digitales)
+
+_As a Co-Founder and Full Stack Developer, I lead digital transformation projects for businesses and government institutions:_
+
+*   **🏛️ Intendencia de Artigas:** Developing a web platform for the Traffic Department to digitize and optimize public services.
+    
+*   **🏗️ Cerramientos del Norte:** Engineered a custom web solution to solve complex stock management and digitalize their operation.
+    
+*   **🍕 CALIS:** Building a dedicated mobile application for streamlined restaurant management and customer interaction.
+    
+*   **🗓️ La Caborteada:** Developed and maintain the official web platform for one of the region's major events.
+    
+
+### 🛠️ Featured Open Source & Tooling
+
+_I build tools to solve bottlenecks and optimize workflows:_
+
+*   **🐞** [**Open Bug Reporter**](https://github.com/rodriuy/OpenBug)
+    
+    *   A Chrome Extension (Manifest V3) and Firebase backend that allows QA testers to capture, annotate, and send detailed bug reports to developers in seconds.
+        
+*   **🎧** [**AudioHub Pro**](https://github.com/rodriuy/AudioHub)
+    
+    *   A Linux Mint Bluetooth audio router built with Python and PulseAudio/PipeWire to manage TWS headphones and audio sinks through a centralized UI.
+        
 
 ### 🏆 The Blockbit Legacy
-**Core Member & Developer**
-I engineer success with [Blockbit](http://blockbit.uy). We don't just compete; we dominate.
-* **Championship Robotics:** Part of the team history designing, building, and programming award-winning robots.
-* **Tech Infrastructure:** Built and maintain the digital ecosystem that powers our team's operations.
-* **Community Impact:** Teaching and leading the next generation of tech enthusiasts in Artigas.
 
----
+**Developer & Technology Researcher**I was a core member of Blockbit Uruguay, an award-winning robotics team that represented the country in international competitions in the United States and Puerto Rico.
 
-### 🚀 Shipping & Building
-*Projects I'm currently driving forward:*
-
-* **🤖 [Blockbit.info](https://github.com/rodriuy/blockbit.info)**
-    * *The Hub:* The central digital brain for our robotics operations. High-performance, informative, and essential.
-* **🍳 [DreamChef](https://github.com/rodriuy/DreamChef)**
-    * *Next-Gen Culinary Tech:* A platform reimagining how we interact with food and recipes. (It’s not just a recipe app; it’s a tool).
-* **🏗️ [Cerramientos del Norte](https://github.com/rodriuy/cerramientosdelnorte)**
-    * *Digital Transformation:* Brought a real-world construction business into the digital age with a custom web solution.
-* **🔗 [MemoLink](https://github.com/rodriuy/MemoLink)**
-    * *Productivity Boost:* A streamlined link management tool built for speed and efficiency.
-
----
+*   **Championship Engineering:** Contributed to the design and programming of robots for global stages.
+    
+*   **Digital Infrastructure:** Built the team's digital ecosystem and central hub.
+    
 
 ### ⚡ Tech Arsenal
-**Languages:** Python 🐍, JavaScript ⚡, HTML5/CSS3 🎨
-**Focus:** Web Development, Robotics Logic, Real-world Deployment.
 
----
+*   **Languages:** Python 🐍, JavaScript/TypeScript ⚡, HTML5/CSS3 🎨
+    
+*   **Backend & DevOps:** Firebase (Cloud Functions, Hosting), Node.js, Linux Audio Stack (pactl/bluetoothctl), Git.
+    
+*   **Specialties:** Web Development, Robotics Logic, System Automation, and Real-world Deployment.
+    
 
 ### 🌍 Global Reach
-*Communication is code for humans. I am ready for international collaboration.*
 
-* **Español:** Native 🇺🇾
-* **English:** Professional (B2) 🇺🇸
-* **Portugués:** Professional (B2) 🇧🇷
-* **Français:** Learning (A2) 🇫🇷
+_Communication is code for humans. I am ready for international collaboration._
 
----
+*   **Español:** Native 🇺🇾
+    
+*   **Portugués:** Native/Bilingual 🇧🇷
+    
+*   **English:** Professional (B2 - Cambridge Certified) 🇺🇸
+    
+*   **Français:** Learning (A2) 🇫🇷
+    
 
 ### 🌐 Let's Connect
-*I'm always open to discussing new tech, robotics, and ambitious projects.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rodrigorodriguez.2)
-[![Website](https://img.shields.io/badge/Blockbit-Website-blue?style=for-the-badge)](http://blockbit.uy)
+_I'm always open to discussing new tech, robotics, and ambitious projects._

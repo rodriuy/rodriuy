@@ -15,7 +15,7 @@ _As a Co-Founder and Full Stack Developer, I lead digital transformation project
     
 *   **🍕 CALIS:** Building a dedicated mobile application for streamlined restaurant management and customer interaction.
     
-*   [**🗓️ La Caborteada:**]((https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
+*   [**🗓️ La Caborteada:**](https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
     
 
 ### 🛠️ Featured Open Source & Tooling

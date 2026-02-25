@@ -9,13 +9,13 @@ I am an 17-year-old developer who doesn't just write code—I ship high-impact s
 
 _As a Co-Founder and Full Stack Developer, I lead digital transformation projects for businesses and government institutions:_
 
-*   **🏛️ Intendencia de Artigas:** Developing a web platform for the Traffic Department to digitize and optimize public services.
+*   [**🏛️ Intendencia de Artigas:**](seccion-transito.web.app) Developing a web platform for the Traffic Department to digitize and optimize public services.
     
-*   **🏗️ Cerramientos del Norte:** Engineered a custom web solution to solve complex stock management and digitalize their operation.
+*   [**🏗️ Cerramientos del Norte:**](cerramientosdelnorte.uy) Engineered a custom web solution to solve complex stock management and digitalize their operation.
     
 *   **🍕 CALIS:** Building a dedicated mobile application for streamlined restaurant management and customer interaction.
     
-*   **🗓️ La Caborteada:** Developed and maintain the official web platform for one of the region's major events.
+*   [**🗓️ La Caborteada:**]((https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
     
 
 ### 🛠️ Featured Open Source & Tooling

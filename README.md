@@ -1,5 +1,3 @@
-# README
-
 I'm Rodrigo. I Build to Win. 🏆
 ===============================
 

@@ -1,67 +1,67 @@
+# README
+
 I'm Rodrigo. I Build to Win. 🏆
 ===============================
 
-### 📍 Uruguay | 🚀 Co-Founder @ Ta! Soluciones Digitales | 🤖 Robotics Champion
+### 📍 Uruguay | 🚀 Co-Founder @ Ta! Soluciones Digitales | 🛠️ Senior-level Full Stack Engineer
 
-I am an 17-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a full-stack mindset to build software that works in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on execution and results.
+I am an 18-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a "high agency" mindset to build software that scales in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on pragmatic execution and results.
 
 ### 💼 Professional Impact (Ta! Soluciones Digitales)
 
-_As a Co-Founder and Full Stack Developer, I lead digital transformation projects for businesses and government institutions:_
+_As a Co-Founder and Technical Lead, I drive digital transformation through daily deployments and ownership:_
 
-*   [**🏛️ Intendencia de Artigas:**](seccion-transito.web.app) Developing a web platform for the Traffic Department to digitize and optimize public services.
+* [**🏛️ Intendencia de Artigas:**](https://seccion-transito.web.app) Architecting the official web platform for the Traffic Department using **Python and PostgreSQL** to modernize public services.
     
-*   [**🏗️ Cerramientos del Norte:**](cerramientosdelnorte.uy) Engineered a custom web solution to solve complex stock management and digitalize their operation.
+* [**🏗️ Cerramientos del Norte:**](https://cerramientosdelnorte.uy) Engineered an ERP-style inventory solution to solve complex stock management and digitalize operations.
     
-*   **🍕 CALIS:** Building a dedicated mobile application for streamlined restaurant management and customer interaction.
+* **🍕 CALIS:** Building a high-velocity mobile application for streamlined restaurant logistics and customer interaction.
     
-*   [**🗓️ La Caborteada:**](https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
+* [**🗓️ La Caborteada:**](https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
     
 
 ### 🛠️ Featured Open Source & Tooling
 
 _I build tools to solve bottlenecks and optimize workflows:_
 
-*   **🐞** [**Open Bug Reporter**](https://github.com/rodriuy/OpenBug)
+* **🐞** [**Open Bug Reporter**](https://github.com/rodriuy/OpenBug)
     
-    *   A Chrome Extension (Manifest V3) and Firebase backend that allows QA testers to capture, annotate, and send detailed bug reports to developers in seconds.
+    * A Chrome Extension (Manifest V3) and Firebase backend that allows QA testers to capture, annotate, and send detailed bug reports to developers in seconds.
         
-*   **🎧** [**AudioHub Pro**](https://github.com/rodriuy/AudioHub)
+* **🎧** [**AudioHub Pro**](https://github.com/rodriuy/AudioHub)
     
-    *   A Linux Mint Bluetooth audio router built with Python and PulseAudio/PipeWire to manage TWS headphones and audio sinks through a centralized UI.
+    * A Linux Mint Bluetooth audio router built with Python and PulseAudio/PipeWire to manage TWS headphones through a centralized UI.
         
 
-### 🏆 The Blockbit Legacy
+### 🤖 AI-Native Mindset
 
-**Developer & Technology Researcher**I was a core member of Blockbit Uruguay, an award-winning robotics team that represented the country in international competitions in the United States and Puerto Rico.
+**Google-certified AI Specialist**. I integrate Generative AI into functional workflows to bridge the gap between LLM capabilities and user experience.
 
-*   **Championship Engineering:** Contributed to the design and programming of robots for global stages.
-    
-*   **Digital Infrastructure:** Built the team's digital ecosystem and central hub.
-    
+* **MEMORA:** Creator of an AI system for reminiscence therapy in older adults, declared of Departmental Interest.
+* **Prompt Engineering:** Specialized in advanced multimodal capabilities using Gemini and high-performance LLM orchestration.
 
 ### ⚡ Tech Arsenal
 
-*   **Languages:** Python 🐍, JavaScript/TypeScript ⚡, HTML5/CSS3 🎨
+* **Languages:** JavaScript/TypeScript (Next.js) ⚡, Python (Django) 🐍, C++ ⚙️.
     
-*   **Backend & DevOps:** Firebase (Cloud Functions, Hosting), Node.js, Linux Audio Stack (pactl/bluetoothctl), Git.
+* **Backend & Data:** PostgreSQL, Firebase, Node.js, Linux Audio Stack, Git.
     
-*   **Specialties:** Web Development, Robotics Logic, System Automation, and Real-world Deployment.
+* **Engineering:** Systems Architecture, Process Automation, and Real-world Deployment.
     
 
 ### 🌍 Global Reach
 
 _Communication is code for humans. I am ready for international collaboration._
 
-*   **Español:** Native 🇺🇾
+* **Español:** Native 🇺🇾
     
-*   **Portugués:** Native/Bilingual 🇧🇷
+* **Portugués:** Native/Bilingual 🇧🇷
     
-*   **English:** Professional (B2 - Cambridge Certified) 🇺🇸
+* **English:** Professional (B2 - Cambridge Certified & UPenn Networking Specialized) 🇺🇸
     
-*   **Français:** Learning (A2) 🇫🇷
+* **Français:** Learning (A2) 🇫🇷
     
 
 ### 🌐 Let's Connect
 
-_I'm always open to discussing new tech, robotics, and ambitious projects._
+_I'm always open to discussing new tech, high-scale architecture, and ambitious projects._

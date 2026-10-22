@@ -3,7 +3,7 @@ I'm Rodrigo. I Build to Win. 🏆
 
 ### 📍 Uruguay | 🚀 Co-Founder @ Ta! Soluciones Digitales | 🛠️ Senior-level Full Stack Engineer
 
-I am an 18-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a "high agency" mindset to build software that scales in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on pragmatic execution and results.
+I am an 17-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a "high agency" mindset to build software that scales in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on pragmatic execution and results.
 
 ### 💼 Professional Impact (Ta! Soluciones Digitales)
 

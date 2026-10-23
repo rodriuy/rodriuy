@@ -1,65 +1,65 @@
-I'm Rodrigo. I Build to Win. 🏆
-===============================
+# Rodrigo Rodríguez
 
-### 📍 Uruguay | 🚀 Co-Founder @ Ta! Soluciones Digitales | 🛠️ Senior-level Full Stack Engineer
+**Developer and Co Founder from Artigas, Uruguay**
 
-I am an 17-year-old developer who doesn't just write code—I ship high-impact solutions. Based in Artigas, I combine engineering discipline with a "high agency" mindset to build software that scales in the real world. From winning international robotics competitions to digitalizing government infrastructure, I focus on pragmatic execution and results.
+I build software to solve real problems, from web platforms and business tools to developer utilities and AI powered projects.
 
-### 💼 Professional Impact (Ta! Soluciones Digitales)
+I'm a Co Founder and Technical Lead at **Ta! Soluciones Digitales**. I enjoy building products, experimenting with new technologies, and turning ideas into working software.
 
-_As a Co-Founder and Technical Lead, I drive digital transformation through daily deployments and ownership:_
+### <img src="https://img.shields.io/badge/SELECTED_WORK-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Selected Work" />
 
-* [**🏛️ Intendencia de Artigas:**](https://seccion-transito.web.app) Architecting the official web platform for the Traffic Department using **Python and PostgreSQL** to modernize public services.
-    
-* [**🏗️ Cerramientos del Norte:**](https://cerramientosdelnorte.uy) Engineered an ERP-style inventory solution to solve complex stock management and digitalize operations.
-    
-* **🍕 CALIS:** Building a high-velocity mobile application for streamlined restaurant logistics and customer interaction.
-    
-* [**🗓️ La Caborteada:**](https://blockbit.uy/caborteada/carnaval/) Developed and maintain the official web platform for one of the region's major events.
-    
+**Ta! Soluciones Digitales**
 
-### 🛠️ Featured Open Source & Tooling
+| Project | Description |
+|:---|:---|
+| [Tecnologías EduNet](https://tecnologias-edu-net.web.app/) | Educational technology |
+| [London House](https://london-house-uy.web.app/) | Web development |
+| [Martillazo Digital](https://martillazodigital.uy/) | Digital platform |
+| [rodrigorodriguez.xyz](https://rodrigorodriguez.xyz) | Personal website |
 
-_I build tools to solve bottlenecks and optimize workflows:_
+### <img src="https://img.shields.io/badge/OPEN_SOURCE-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
 
-* **🐞** [**Open Bug Reporter**](https://github.com/rodriuy/OpenBug)
-    
-    * A Chrome Extension (Manifest V3) and Firebase backend that allows QA testers to capture, annotate, and send detailed bug reports to developers in seconds.
-        
-* **🎧** [**AudioHub Pro**](https://github.com/rodriuy/AudioHub)
-    
-    * A Linux Mint Bluetooth audio router built with Python and PulseAudio/PipeWire to manage TWS headphones through a centralized UI.
-        
+**[OpenBug](https://github.com/rodriuy/OpenBug)**
 
-### 🤖 AI-Native Mindset
+A Chrome extension and Firebase backend for capturing, annotating, and sharing bug reports with developers.
 
-**Google-certified AI Specialist**. I integrate Generative AI into functional workflows to bridge the gap between LLM capabilities and user experience.
+**[AudioHub](https://github.com/rodriuy/AudioHub)**
 
-* **MEMORA:** Creator of an AI system for reminiscence therapy in older adults, declared of Departmental Interest.
-* **Prompt Engineering:** Specialized in advanced multimodal capabilities using Gemini and high-performance LLM orchestration.
+A Linux audio utility built with Python to manage Bluetooth audio devices through a centralized interface.
 
-### ⚡ Tech Arsenal
+### <img src="https://img.shields.io/badge/AI_AND_INNOVATION-412991?style=flat-square&logo=openai&logoColor=white" alt="AI and Innovation" />
 
-* **Languages:** JavaScript/TypeScript (Next.js) ⚡, Python (Django) 🐍, C++ ⚙️.
-    
-* **Backend & Data:** PostgreSQL, Firebase, Node.js, Linux Audio Stack, Git.
-    
-* **Engineering:** Systems Architecture, Process Automation, and Real-world Deployment.
-    
+**MEMORA**
 
-### 🌍 Global Reach
+An AI assisted reminiscence system for older adults, recognized as being of departmental interest.
 
-_Communication is code for humans. I am ready for international collaboration._
+**Chispa**
 
-* **Español:** Native 🇺🇾
-    
-* **Portugués:** Native/Bilingual 🇧🇷
-    
-* **English:** Professional (B2 - Cambridge Certified & UPenn Networking Specialized) 🇺🇸
-    
-* **Français:** Learning (A2) 🇫🇷
-    
+Co founded an education technology project focused on helping teachers create classroom materials aligned with Uruguay's curriculum.
 
-### 🌐 Let's Connect
+I'm interested in making AI useful in real products, improving workflows, and giving people tools to build things they couldn't easily build before.
 
-_I'm always open to discussing new tech, high-scale architecture, and ambitious projects._
+### <img src="https://img.shields.io/badge/TECH_STACK-007ACC?style=flat-square&logo=devdotto&logoColor=white" alt="Tech Stack" />
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nextjs,nodejs,django,firebase,postgres,git,linux&perline=6" alt="Technologies" />
+  </a>
+</p>
+
+My stack changes depending on the problem. I focus on understanding what needs to be built and choosing the right tools for the job.
+
+### <img src="https://img.shields.io/badge/LANGUAGES-008080?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages" />
+
+| Language | Proficiency |
+|:---|:---|
+| Spanish | Native |
+| Portuguese | Native / Bilingual |
+| English | TOEFL Certified |
+| French | C1 |
+
+### <img src="https://img.shields.io/badge/CONNECT-181717?style=flat-square&logo=github&logoColor=white" alt="Connect" />
+
+I'm always interested in meeting people who build things, exchanging ideas, and working on projects worth the effort.
+
+**Build something useful. Learn something new. Repeat.**

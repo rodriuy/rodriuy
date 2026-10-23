@@ -56,7 +56,7 @@ My stack changes depending on the problem. I focus on understanding what needs t
 | Spanish | Native |
 | Portuguese | Native / Bilingual |
 | English | TOEFL Certified |
-| French | C1 |
+| French | Learning |
 
 ### <img src="https://img.shields.io/badge/CONNECT-181717?style=flat-square&logo=github&logoColor=white" alt="Connect" />
 

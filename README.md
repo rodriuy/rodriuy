@@ -33,7 +33,7 @@ A Linux audio utility built with Python to manage Bluetooth audio devices throug
 
 An AI assisted reminiscence system for older adults, recognized as being of departmental interest.
 
-**Chispa**
+**[Chispa](https://chispa.site)**
 
 Co founded an education technology project focused on helping teachers create classroom materials aligned with Uruguay's curriculum.
 
